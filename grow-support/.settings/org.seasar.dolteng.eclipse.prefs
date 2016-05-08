@@ -1,8 +1,0 @@
-DaoType=S2JDBC
-DefaultResourcePath=/grow-support/src/main/resources
-DefaultRootPackage=com.growsupport
-DefaultSrcPath=/grow-support/src/main/java
-ServletPath=/grow-support
-ViewType=SA-Struts
-WebContentsRoot=src/main/webapp/
-eclipse.preferences.version=1
